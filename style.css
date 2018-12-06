@@ -31,7 +31,7 @@ body{
     justify-content: center;
     height: 200px;
     widows: 150px;
-    transform: rotate(90deg);
+    /* transform: rotate(90deg); */
     border-radius: 55%;
     border-style: solid;
     
