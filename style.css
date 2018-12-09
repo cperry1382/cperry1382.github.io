@@ -14,7 +14,7 @@ body{
     min-height: 100%;
     flex-direction: column;
     margin-bottom: 100px;
- 
+    transform: rotate(90deg);
 }
 
 #myHead{
